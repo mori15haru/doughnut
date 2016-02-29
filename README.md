@@ -1,12 +1,14 @@
-###doughnuts
-[Wiki](https://en.wikipedia.org/wiki/Computational_topology)
+Materials to learn Computational Topology
 
-###courses
+###doughnuts
+1. [Wiki](https://en.wikipedia.org/wiki/Computational_topology)
+
+###syllabuses
 
 ###blogs
 
 ###lectures
-[youtube](https://www.youtube.com/playlist?list=PLSekr_gm4hWLRNHB5-sbajyUzN5tLOZmx)
+1. [youtube](https://www.youtube.com/playlist?list=PLSekr_gm4hWLRNHB5-sbajyUzN5tLOZmx)
 
 ###references
 1. [stackexchange::math](http://math.stackexchange.com/)
