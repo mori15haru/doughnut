@@ -6,6 +6,9 @@
 ###syllabuses
 
 ###blogs
+- http://jeremykun.com/
+- https://tomcircle.wordpress.com/
+- https://honglangwang.wordpress.com/
 
 ###lectures
 1. [youtube](https://www.youtube.com/playlist?list=PLSekr_gm4hWLRNHB5-sbajyUzN5tLOZmx)
