@@ -6,6 +6,7 @@
 ###blogs
 
 ###lectures
+[youtube](https://www.youtube.com/playlist?list=PLSekr_gm4hWLRNHB5-sbajyUzN5tLOZmx)
 
 ###references
 1. [stackexchange::math](http://math.stackexchange.com/)
